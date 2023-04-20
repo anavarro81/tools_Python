@@ -1,0 +1,30 @@
+P: El tratamiento etiológico...
+O: a. Actúa sobre los síntomas;b. Se usa en situaciones terminales;c. Actúa sobre la causa de la enfermedad.;d. Ninguna de las anteriores.
+R: c. Actúa sobre la causa de la enfermedad.
+P: Cual de los siguientes NO es un antiinflamatorio corticoide
+O: a. Prednisona;b. Metilprednisolona;c. Triamcinolona.;d. Fipronil;
+R: d. Fipronil
+P: Cual de los siguientes NO es un antiséptico o Desinfectante
+O: a. Clorhexhidina;b. Agua oxigenada;c. Enalapril;d. Alcohol etílico
+R: c. Enalapril
+P: El Diazepam
+O: a. Tiene propiedades sedantes;b. Se aplica en crisis convulsivas;c. Se puede revertir sus efectos;d. Produce analgesia profunda
+R: b. Se aplica en crisis convulsivas 
+P: ¿El cuál de estos casos NO se usa específicamente la fluidoterapia? 
+O: a.  Deshidratación;b. Estados de shock;c.  Diarreas;d. Como vehículo para la administración de medicamentos
+R: c.  Diarreas
+P: La Calicivirus es una vacuna para 
+O: a. Perros;b. Gatos;c. Conejos;d. Hurones
+R: b. Gatos
+P: ¿Qué datos No hay que incluir en la receta veterinaria? 
+O: a. Firma y fecha de prescripción;b. Datos del veterinario;c. Datos del animal;d. Número de unidades que se dispensaran 
+R: c. Datos del animal
+P: ¿Cuál de los siguientes NO está aconsejado en gatos por su toxicidad? 
+O: a. ivermectina;b. selamectina;c. permetrinas;d. Isoxazolinas
+R: c. permetrinas
+P: Dentro de las vías parentaeral, ¿Cuál es la más rápida? 
+O: a. Intraperitoneal;b. Subcutánea;c. Intramuscular;d. Intravenosa
+R: d. Intravenosa
+P: La Aglepristona 
+O: a.  Se usa en castración química;b. inhiben la producción de prolactina;c.  Se usa en abortos;d. Se usa para estimular contracciones
+R: c.  Se usa en abortos
